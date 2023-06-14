@@ -21,6 +21,7 @@ Links
 .. * :ref:`search`
 * OP-TEE: https://optee.readthedocs.io (source GitHub)
 * TRS (and Trusted Substrate): https://trs.readthedocs.org  (source GitLab)
+* Cassini: https://cassini.readthedocs.io (source GitLab)
 * Jipdate: https://jipdate.readthedocs.io (source GitHub)
 * IBART: https://ibart.readthedocs.io (source GitHub)
 
